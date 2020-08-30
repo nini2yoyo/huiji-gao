@@ -19,7 +19,7 @@ Recent News
 * One paper on "[Personalized Query Suggestions](https://sigir.org/sigir2020/accepted-papers/#ShortPaper)" is accepted by SIGIR 2020.
 * I'll give a tutorial with my colleagues on "[Deep Natural Language Processing for Search and Recommender Systems](https://sites.google.com/view/kdd2019deepnlp)" at KDD 2019 in Alaska, USA, on Aug 4, 2019.
 * I'll give a tutorial with my colleagues on "[Deep Natural Language Processing for Search Systems](https://sites.google.com/view/sigir2019tutorial)" at SIGIR 2019 in Paris, France on July 21, 2019.
-* I'll give a tech talk with my colleagues on "[Deep Natural Language Processing for Search Systems](https://github.com/nini2yoyo/nini2yoyo.github.io/huiji-gao/raw/master/files/AITechMeetup.pdf)" at the [AI Tech Meetup -- by LinkedIn, Uber and Facebook](https://www.eventbrite.com/e/ai-tech-meetup-tickets-61073014029#) at LinkedIn, Mountain View on May 9, 2019.
+* I'll give a tech talk with my colleagues on "[Deep Natural Language Processing for Search Systems](https://github.com/nini2yoyo/huiji-gao/raw/master/files/AITechMeetup.pdf)" at the [AI Tech Meetup -- by LinkedIn, Uber and Facebook](https://www.eventbrite.com/e/ai-tech-meetup-tickets-61073014029#) at LinkedIn, Mountain View on May 9, 2019.
 * My first book on "[Mining Human Mobility in Location-Based Social Networks](http://nini2yoyo.github.io/huiji-gao/files/book.pdf)" is published by Morgan & CLaypool, 2015.
 * I will join LinkedIn as an Applied Research Engineer in 2015.
 * One paper on "Content-Aware Point of Interest Recommendation on Location-Based Social Networks" is accepted by AAAI 2015.

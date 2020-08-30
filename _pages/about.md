@@ -1,50 +1,39 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I'm an Engineering Manager at LinkedIn leading the AI Algorithms Foundation team, responsible for developing horizontal AI technologies for search and recommender systems w.r.t. Natural Language Processing, Ranking, and Personalization. Before joining LinkedIn, I was a research intern at IBM Research Almaden, and an engineering intern at LinkedIn. I received my Ph.D. in Computer Science from [Arizona State University](https://www.asu.edu) under the supervision of Dr. [Huan Liu](http://www.public.asu.edu/~huanliu), with research focus on data mining and machine learning. I received my Master and Bachelor degrees from [Beijing University of Posts and Telecommunications](https://english.bupt.edu.cn).
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Recent News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* [**New**] I'll give a hands-on tutorial with my colleagues on "[Deep Learning for Search and Recommender Systems in Practice](https://sites.google.com/view/kdd20tutorial-deepsnr/home)" at KDD 2020 on Aug 26.
+* [**New**] We open sourced ([Github](https://github.com/linkedin/detext)) [DeText: A deep NLP framework for intelligent text understanding](https://engineering.linkedin.com/blog/2020/open-sourcing-detext). The work is reported by [Fortune](https://fortune.com/newsletter/eye-on-ai/), [VB](https://venturebeat.com/2020/07/28/linkedin-open-sources-detext-a-framework-for-natural-language-processing-tasks/), and [THENEWSTACK](https://thenewstack.io/detext-linkedins-open-source-deep-learning-framework-for-natural-language-processing/).
+* [**New**] Three papers: "[DeText: A Deep Text Ranking Framework with BERT](https://arxiv.org/abs/2008.02460)", "[Efficient Neural Query Auto Completion](https://arxiv.org/abs/2008.02879)", and "[Improving Search Query Suggestion With User Feedback](http://nini2yoyo.github.io/files/seq2seqClick.pdf)" are accepted by CIKM 2020.
+* Our work on LiBERT, BERT model trained and calibrated on LinkedIn data, is reported by [Fortune Magazine: A.I. breakthroughs in natural-language processing are big for business](https://fortune.com/2020/01/20/natural-language-processing-business).
+* I'll co-organize [The First Deep Natural Language Processing for Search and Recommendation Workshop](https://sites.google.com/view/deepnlp2020) held in conjunction with SIGIR 2020 on July 30.
+* One paper on "[Personalized Query Suggestions](https://sigir.org/sigir2020/accepted-papers/#ShortPaper)" is accepted by SIGIR 2020.
+* I'll give a tutorial with my colleagues on "[Deep Natural Language Processing for Search and Recommender Systems](https://sites.google.com/view/kdd2019deepnlp)" at KDD 2019 in Alaska, USA, on Aug 4, 2019.
+* I'll give a tutorial with my colleagues on "[Deep Natural Language Processing for Search Systems](https://sites.google.com/view/sigir2019tutorial)" at SIGIR 2019 in Paris, France on July 21, 2019.
+* I'll give a tech talk with my colleagues on "[Deep Natural Language Processing for Search Systems](https://github.com/nini2yoyo/nini2yoyo.github.io/raw/master/files/AITechMeetup.pdf)" at the [AI Tech Meetup -- by LinkedIn, Uber and Facebook](https://www.eventbrite.com/e/ai-tech-meetup-tickets-61073014029#) at LinkedIn, Mountain View on May 9, 2019.
+* My first book on "[Mining Human Mobility in Location-Based Social Networks](http://nini2yoyo.github.io/files/book.pdf)" is published by Morgan & CLaypool, 2015.
+* I will join LinkedIn as an Applied Research Engineer in 2015.
+* One paper on "Content-Aware Point of Interest Recommendation on Location-Based Social Networks" is accepted by AAAI 2015.
+* I will give a tutorial on location recommendation at ACM RecSys 2014 in Foster City, CA, on Oct 6th.
+* I will join LinkedIn as an engineering Intern in summer 2014.
+* Received ASU Graduate Education Dissertation Fellowship (Awarded to 1 student in CIDSE, fewer than 25 in ASU).
+* Two papers accepted by ICWSM 2014.
+* Received the 2014 ASU President's Award for Innovation.
+* One book chapter "Data Analysis on Location-Based Social Networks" is published by Springer, 2014
+* I will give an oral presentation at ACM RecSys 2013 in Hong Kong, China, on Oct 14th.
+* I will give an oral presentation at ASONAM 2013 in Niagara Falls, Canada, on Aug 28th.
+* I will join IBM Almaden Research Center as a Research Intern in summer 2013.
+* I will give an oral presentation in CIKM 2012 in Maui, Hawaii, on Oct 30th.
+* Awarded the third prize in task "Next Place Prediction" at the Mobile Data Challenge by Nokia.
+* One paper on "eTrust: Understanding Trust Evolution in an Online World" is accepted by KDD 2012.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=HOYRPdiZNP67nyqG7HTjajhshw_kn6eeASbKnd7DFiQ&cl=ffffff&w=a"></script>

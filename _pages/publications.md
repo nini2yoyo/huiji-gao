@@ -14,7 +14,7 @@ author_profile: true
 <b>[Data Analysis on Location-Based Social Netwoks](http://nini2yoyo.github.io/huiji-gao/files/LBSN_chapter.pdf)</b><br>
 <b>Huiji Gao</b>, Huan Liu. [Mobile Social Networking: An Innovative Approach](https://www.springer.com/gp/book/9781461485780), Editor: Alvin Chin and Daqing Zhang. Springer. pp. 165-194, 2014.
 
-<b>[Analyzing Behavior of Influentials Across Social Media](http://nini2yoyo.github.io/files/AgarwalKumarGaoZafaraniLiu-ChapterForBehaviorComputingBook.pdf)</b><br>
+<b>[Analyzing Behavior of Influentials Across Social Media](http://nini2yoyo.github.io/huiji-gao/files/AgarwalKumarGaoZafaraniLiu-ChapterForBehaviorComputingBook.pdf)</b><br>
 Nitin Agarwal, Shamanth Kumar, <b>Huiji Gao</b>, Reza Zafarani and Huan Liu. [Behavior Computing: Modeling, Analysis, Mining
 and Decision](https://www.amazon.com/Behavior-Computing-Modeling-Analysis-Decision/dp/1447129687/ref=sr_1_1?ie=UTF8&qid=1345584429&sr=8-1&keywords=Analyzing+Behavior+of+Influentials+Across+Social+Media). Springer. pp. 3-19, 2012.
 

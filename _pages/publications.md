@@ -62,7 +62,7 @@ Michaeel Kazi, Weiwei Guo, <b>Huiji Gao</b>, and Bo Long. The 29nd ACM Internati
 <b>[Efficient Neural Query Auto Completion](https://arxiv.org/abs/2008.02879)</b><br>
 Sida Wang, Weiwei Guo, <b>Huiji Gao</b>, and Bo Long. The 29nd ACM International Conference on Information and Knowledge Management (CIKM), 2020.
 
-<b>[Personalized Query Suggestions](https://sigir-schedule.baai.ac.cn/poster/sp0150)</b><br>
+<b>[Personalized Query Suggestions](http://nini2yoyo.github.io/huiji-gao/files/Personalized_Seq2Seq.pdf)</b><br>
 Jianling Zhong, Weiwei Guo, <b>Huiji Gao</b>, and Bo Long. The 43nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2020.
 
 <b>[Content-aware Point of Interest Recommendation on Location-based Social Networks](http://nini2yoyo.github.io/huiji-gao/files/AAAI_2015_Huiji.pdf)</b><br>

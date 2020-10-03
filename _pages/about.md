@@ -11,6 +11,7 @@ I'm an Engineering Manager at LinkedIn leading the AI Algorithms Foundation team
 
 Recent News
 ======
+* [**New**] We open sourced ([Github](https://github.com/linkedin/gdmix)) [GDMix: A Deep Ranking Personalization Framework](https://engineering.linkedin.com/blog/2020/gdmix--a-deep-ranking-personalization-framework). The work is reported by [VB](https://venturebeat.com/2020/09/29/linkedin-open-sources-gdmix-a-framework-for-training-ai-personalization-models/).
 * [**New**] I'll give a hands-on tutorial with my colleagues on "[Deep Learning for Search and Recommender Systems in Practice](https://sites.google.com/view/kdd20tutorial-deepsnr/home)" at KDD 2020 on Aug 26.
 * [**New**] We open sourced ([Github](https://github.com/linkedin/detext)) [DeText: A deep NLP framework for intelligent text understanding](https://engineering.linkedin.com/blog/2020/open-sourcing-detext). The work is reported by [Fortune](https://fortune.com/newsletter/eye-on-ai/), [VB](https://venturebeat.com/2020/07/28/linkedin-open-sources-detext-a-framework-for-natural-language-processing-tasks/), and [THENEWSTACK](https://thenewstack.io/detext-linkedins-open-source-deep-learning-framework-for-natural-language-processing/).
 * [**New**] Three papers: "[DeText: A Deep Text Ranking Framework with BERT](https://arxiv.org/abs/2008.02460)", "[Efficient Neural Query Auto Completion](https://arxiv.org/abs/2008.02879)", and "[Improving Search Query Suggestion With User Feedback](http://nini2yoyo.github.io/huiji-gao/files/seq2seqClick.pdf)" are accepted by CIKM 2020.

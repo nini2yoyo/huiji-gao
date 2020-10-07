@@ -12,5 +12,5 @@ main:
   - title: "Patents"
     url: /patents/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/

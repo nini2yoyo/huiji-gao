@@ -11,7 +11,7 @@ I'm a Senior Engineering Manager at LinkedIn leading the AI Algorithms Foundatio
 
 Recent News
 ======
-* [**New**] I'll give two tech talks with my colleagues on "DeText: A Framework for Deep Natural Language Understanding at LinkedIn" at AI Camp and [NYNLP Meetup](https://www.meetup.com/NY-NLP/events/272331181/) on Oct 19 and OCT 22, respectively.
+* [**New**] I'll give two tech talks with my colleagues on "DeText: A Framework for Deep Natural Language Understanding at LinkedIn" at [AI Camp](https://learn.xnextcon.com/event/eventdetails/W2020101910) and [NYNLP Meetup](https://www.meetup.com/NY-NLP/events/272331181/) on Oct 19 and OCT 22, respectively.
 * [**New**] We open sourced ([Github](https://github.com/linkedin/gdmix)) [GDMix: A Deep Ranking Personalization Framework](https://engineering.linkedin.com/blog/2020/gdmix--a-deep-ranking-personalization-framework). The work is reported by [VB](https://venturebeat.com/2020/09/29/linkedin-open-sources-gdmix-a-framework-for-training-ai-personalization-models/).
 * [**New**] I'll give a hands-on tutorial with my colleagues on "[Deep Learning for Search and Recommender Systems in Practice](https://sites.google.com/view/kdd20tutorial-deepsnr/home)" at KDD 2020 on Aug 26.
 * [**New**] We open sourced ([Github](https://github.com/linkedin/detext)) [DeText: A deep NLP framework for intelligent text understanding](https://engineering.linkedin.com/blog/2020/open-sourcing-detext). The work is reported by [Fortune](https://fortune.com/newsletter/eye-on-ai/), [VB](https://venturebeat.com/2020/07/28/linkedin-open-sources-detext-a-framework-for-natural-language-processing-tasks/), and [THENEWSTACK](https://thenewstack.io/detext-linkedins-open-source-deep-learning-framework-for-natural-language-processing/).

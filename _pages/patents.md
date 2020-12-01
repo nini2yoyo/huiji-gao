@@ -6,6 +6,8 @@ author_profile: true
 ---
 # <i class=""></i> Patents #
 
+* US Patent App. 17/107560. Training A Machine-learned Model Based on Feedback, with Michaeel Kazi, Weiwei Guo, and Bo Long. Publication date: 2020/11/30.
+* US Patent App. 17/107524. Machine Learning Techniques to Predict Document Type for Incomplete Queries, with Xiaowei Liu, Weiwei Guo, and Bo Long. Publication date: 2020/11/30.
 * US Patent App. 16/859898. Domain-adapted Sentiment Prediction for Long or Unbalanced Text Threads, with Zhiling Wan, Chih-Hui Wang, Haichao Wei, and Lili Zhou. Publication date: 2020/4/27.
 * US Patent App. 16/801725. Generating Personalized Query Suggestions, with Jianling Zhong, Weiwei Guo, Lin Guo, and Bo Long. Publication date: 2020/2/26.
 * US Patent App. 16/669283. Distributed Learning OF Composite Machine Learning Models, with Yuwei Qiu, Chengming Jiang, Bee-Chung Chen, and Bo Long. Publication date: 2019/10/30.

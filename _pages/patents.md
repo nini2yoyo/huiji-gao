@@ -6,6 +6,7 @@ author_profile: true
 ---
 # <i class=""></i> Patents #
 
+* US Patent 902685-US-NP. Tree-based Transfer Learning of Tunable Parameters, with Qingquan Song, Chengming Jiang, Yunbo Ouyang, Jun Jia, Bo Long, Bee-Chung Chen, and Xia Hu. Publication date: 2020/12/02.
 * US Patent App. 17/107560. Training A Machine-learned Model Based on Feedback, with Michaeel Kazi, Weiwei Guo, and Bo Long. Publication date: 2020/11/30.
 * US Patent App. 17/107524. Machine Learning Techniques to Predict Document Type for Incomplete Queries, with Xiaowei Liu, Weiwei Guo, and Bo Long. Publication date: 2020/11/30.
 * US Patent App. 16/859898. Domain-adapted Sentiment Prediction for Long or Unbalanced Text Threads, with Zhiling Wan, Chih-Hui Wang, Haichao Wei, and Lili Zhou. Publication date: 2020/4/27.

@@ -11,7 +11,7 @@ I'm a Senior Engineering Manager at LinkedIn leading the AI Algorithms Foundatio
 
 Recent News
 ======
-* [**New**] Our paper on [DeText](https://lnkd.in/gGt8ye6) has won the [Best Paper Award](https://raw.githubusercontent.com/nini2yoyo/huiji-gao/master/images/DeText-Best%20Paper.jpg) at CIKM 2020 applied research track.
+* [**New**] Our paper on [DeText](https://lnkd.in/gGt8ye6) has won the [Best Paper Award](https://raw.githubusercontent.com/nini2yoyo/huiji-gao/master/images/DeText_cikm2020-award-cert_p4.pdf) at CIKM 2020 applied research track.
 * [**New**] I'll give two tech talks with my colleagues on "[DeText: A Framework for Deep Natural Language Understanding at LinkedIn](https://www.youtube.com/watch?v=yXxGOcVomGM)" at [AI Camp](https://learn.xnextcon.com/event/eventdetails/W2020101910) and [NYNLP Meetup](https://www.meetup.com/NY-NLP/events/272331181/) on Oct 19 and Oct 22, respectively.
 * [**New**] We open sourced ([Github](https://github.com/linkedin/gdmix)) [GDMix: A Deep Ranking Personalization Framework](https://engineering.linkedin.com/blog/2020/gdmix--a-deep-ranking-personalization-framework). The work is reported by [VB](https://venturebeat.com/2020/09/29/linkedin-open-sources-gdmix-a-framework-for-training-ai-personalization-models/).
 * [**New**] I'll give a hands-on tutorial with my colleagues on "[Deep Learning for Search and Recommender Systems in Practice](https://sites.google.com/view/kdd20tutorial-deepsnr/home)" at KDD 2020 on Aug 26.

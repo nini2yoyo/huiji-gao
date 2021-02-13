@@ -56,7 +56,7 @@ Geoffrey Barbier, Reza Zafarani, <b>Huiji Gao</b>, Gabriel Fung, Huan Liu. Compu
 <b>[DeText: A Deep Text Ranking Framework with BERT](https://arxiv.org/abs/2008.02460)</b><br>
 Weiwei Guo, Xiaowei Liu, Sida Wang, <b>Huiji Gao</b>, Ananth Sankar, Zimeng Yang, Qi Guo, Liang Zhang, Bo Long, Bee-Chung Chen and Deepak Agarwal. The 29nd ACM International Conference on Information and Knowledge Management (CIKM), 2020.
 
-<b>[Improving Search Query Suggestion With User Feedback](http://nini2yoyo.github.io/huiji-gao/files/seq2seqClick.pdf)</b><br>
+<b>[Incorporating User Feedback into Sequence to Sequence Model Training](http://nini2yoyo.github.io/huiji-gao/files/seq2seqClick.pdf)</b><br>
 Michaeel Kazi, Weiwei Guo, <b>Huiji Gao</b>, and Bo Long. The 29nd ACM International Conference on Information and Knowledge Management (CIKM), 2020.
 
 <b>[Efficient Neural Query Auto Completion](https://arxiv.org/abs/2008.02879)</b><br>

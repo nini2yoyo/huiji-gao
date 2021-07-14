@@ -3,5 +3,3 @@ title: "CV [(Download)](http://nini2yoyo.github.io/huiji-gao/files/CV_HuijiGao_s
 permalink: /cv/
 author_profile: true
 ---
-
-<b>[CV]()</b>

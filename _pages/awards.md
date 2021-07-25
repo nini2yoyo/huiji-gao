@@ -7,6 +7,8 @@ author_profile: true
 ---
 # <i class="fa fa-fw fa-trophy"></i> Awards & Honors
 
+* [**Best Paper Award**](https://nini2yoyo.github.io/huiji-gao/files/DeText_cikm2020-award-cert_p4.pdf) on [DeText: A Deep Text Ranking Framework with BERT](https://dl.acm.org/doi/10.1145/3340531.3412699) in CIKM Applied Research Track, 2020
+
 * LinkedIn Engineering Showcase on “Natural Language Intelligence at Scale” (**Top 1** selected in AI Org), 2019
 
 * **Best Model Award** for Job Recommendation, LinkedIn Relevance Hackathon, 2016

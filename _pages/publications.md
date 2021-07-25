@@ -52,6 +52,8 @@ Geoffrey Barbier, Reza Zafarani, <b>Huiji Gao</b>, Gabriel Fung, Huan Liu. Compu
 <b>Huiji Gao</b>, Geoffrey Barbier, Rebecca Goolsby.IEEE Intelligent Systems, (3), pp. 10-14, 2010.
 
 ## Conferences
+<b>[AutoDim: Field-aware Embedding Dimension Search in Recommender Systems](http://www.cse.msu.edu/~zhaoxi35/paper/www2021autodim.pdf)</b><br>
+Xiangyu Zhao, Haochen Liu, Hui Liu, Jiliang Tang, Weiwei Guo, Jun Shi, Sida Wang, <b>Huiji Gao</b>, and Bo Long. The 30th The Web Conference, 2021.
 
 <b>[DeText: A Deep Text Ranking Framework with BERT](https://arxiv.org/abs/2008.02460)</b><br>
 Weiwei Guo, Xiaowei Liu, Sida Wang, <b>Huiji Gao</b>, Ananth Sankar, Zimeng Yang, Qi Guo, Liang Zhang, Bo Long, Bee-Chung Chen and Deepak Agarwal. The 29nd ACM International Conference on Information and Knowledge Management (CIKM), 2020.
@@ -139,5 +141,5 @@ Lei Tang, <b>Huiji Gao</b>, and Huan Liu. Workshop on Mining and Learning with G
 Workshop Co-chair of <b>[Deep Natural Language Processing for Search and Recommendation](https://sites.google.com/view/deepnlp2020)</b><br>
 Chairs: Bo Long, Jieping Ye, Zang Li, <b>Huiji Gao</b>, and Sandeep Jha. Held in conjunction with the 43nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020), July 25–30, 2020, Xi'an, China (Virtual).<br>
 
-Workshop Co-chair of <b>[2nd Deep Reinforcement Learning for Knowledge Discovery](https://sites.google.com/view/deepnlp2020)</b><br>
+Workshop Co-chair of <b>[2nd Deep Reinforcement Learning for Knowledge Discovery](https://drl4kd.github.io/)</b><br>
 Chairs: Jiliang Tang, Xiangyu Zhao, Dawei Yin, Long Xia, <b>Huiji Gao</b>, Rui Chen, and Jason Gauci. Held in conjunction with the 30th The Web Conference, Apr 12􀀀16, 2021, Ljubljana, Slovenia.<br>

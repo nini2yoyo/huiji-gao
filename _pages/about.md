@@ -11,7 +11,7 @@ I'm a Senior Engineering Manager at LinkedIn leading the AI Algorithms Foundatio
 
 Recent News
 ======
-* [**New**] Our paper on [\AutoDim: Field-aware Embedding Dimension Search in Recommender Systems](https://dl.acm.org/doi/10.1145/3442381.3450124) is accepted by WWW 2021.
+* [**New**] Our paper on [AutoDim: Field-aware Embedding Dimension Search in Recommender Systems](https://dl.acm.org/doi/10.1145/3442381.3450124) is accepted by WWW 2021.
 * [**New**] I'll give two tech talks with my colleagues on "[DeText: A Framework for Deep Natural Language Processing at Linkedin](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31850/)" and "[GDMix: A Deep Ranking Personalization Framework](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s32081/)" at [Nvidia GPU Technology Conference 2021](https://www.nvidia.com/en-us/gtc/topics/) on Apr 2021, respectively.
 * [**New**] Our paper on [DeText](https://lnkd.in/gGt8ye6) has won the [Best Paper Award](https://nini2yoyo.github.io/huiji-gao/files/DeText_cikm2020-award-cert_p4.pdf) at CIKM 2020 applied research track.
 * [**New**] I'll give two tech talks with my colleagues on "[DeText: A Framework for Deep Natural Language Understanding at LinkedIn](https://www.youtube.com/watch?v=yXxGOcVomGM)" at [AI Camp](https://learn.xnextcon.com/event/eventdetails/W2020101910) and [NYNLP Meetup](https://www.meetup.com/NY-NLP/events/272331181/) on Oct 19 and Oct 22, respectively.

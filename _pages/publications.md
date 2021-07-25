@@ -136,5 +136,8 @@ Lei Tang, <b>Huiji Gao</b>, and Huan Liu. Workshop on Mining and Learning with G
 
 ## Workshops
 
-Workshop Co-chair of <b>[Deep Natural Language Processing for Search and Recommendation](https://sites.google.com/view/deepnlp2020)</b><br>
-Chairs: Bo Long, Jieping Ye, Zang Li, <b>Huiji Gao</b>, and Sandeep Jha. Held in conjunction with the 43nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020), July 25–30, 2020, Xi'an, China (Virtual).
+<b>Workshop Co-chair of <b>[Deep Natural Language Processing for Search and Recommendation](https://sites.google.com/view/deepnlp2020)</b><br>
+Chairs: Bo Long, Jieping Ye, Zang Li, <b>Huiji Gao</b>, and Sandeep Jha. Held in conjunction with the 43nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020), July 25–30, 2020, Xi'an, China (Virtual).</b><br>
+
+<b>Workshop Co-chair of <b>[2nd Deep Reinforcement Learning for Knowledge Discovery](https://sites.google.com/view/deepnlp2020)</b><br>
+Chairs: Jiliang Tang, Xiangyu Zhao, Dawei Yin, Long Xia, <b>Huiji Gao</b>, Rui Chen, and Jason Gauci. Held in conjunction with the 30th The Web Conference, Apr 12􀀀16, 2021, Ljubljana, Slovenia.</b><br>

@@ -33,4 +33,4 @@ author_profile: true
 
 * **First Prize** in “‘INTEL Cup’ - National College Students Embedded System Competition”, 2006.
 
-* First-grade / Second-grade (Awarded to **Top 10% - 15%** students) University Scholarship, Beijing Univerisity of Posts and Telecommunications, 2003 - 2006.
+* First/Second-grade University Scholarships (Awarded to **Top 10% - 15%** students), Beijing Univerisity of Posts and Telecommunications, 2003 - 2006.

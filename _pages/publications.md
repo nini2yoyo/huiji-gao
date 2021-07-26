@@ -142,4 +142,4 @@ Workshop Co-chair of <b>[Deep Natural Language Processing for Search and Recomme
 Chairs: Bo Long, Jieping Ye, Zang Li, <b>Huiji Gao</b>, and Sandeep Jha. Held in conjunction with the 43nd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2020), July 25–30, 2020, Xi'an, China (Virtual).<br>
 
 Workshop Co-chair of <b>[2nd Deep Reinforcement Learning for Knowledge Discovery](https://drl4kd.github.io/)</b><br>
-Chairs: Jiliang Tang, Xiangyu Zhao, Dawei Yin, Long Xia, <b>Huiji Gao</b>, Rui Chen, and Jason Gauci. Held in conjunction with the 30th The Web Conference, Apr 12􀀀16, 2021, Ljubljana, Slovenia.<br>
+Chairs: Jiliang Tang, Xiangyu Zhao, Dawei Yin, Long Xia, <b>Huiji Gao</b>, Rui Chen, and Jason Gauci. Held in conjunction with the 30th The Web Conference, Apr 12–16, 2021, Ljubljana, Slovenia.<br>

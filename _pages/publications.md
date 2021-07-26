@@ -55,7 +55,7 @@ Geoffrey Barbier, Reza Zafarani, <b>Huiji Gao</b>, Gabriel Fung, Huan Liu. Compu
 <b>[AutoDim: Field-aware Embedding Dimension Search in Recommender Systems](http://www.cse.msu.edu/~zhaoxi35/paper/www2021autodim.pdf)</b><br>
 Xiangyu Zhao, Haochen Liu, Hui Liu, Jiliang Tang, Weiwei Guo, Jun Shi, Sida Wang, <b>Huiji Gao</b>, and Bo Long. The 30th The Web Conference, 2021.
 
-<b>[DeText: A Deep Text Ranking Framework with BERT](https://arxiv.org/abs/2008.02460)</b><br>
+<b>[DeText: A Deep Text Ranking Framework with BERT](https://arxiv.org/abs/2008.02460)</b>[Best Paper Award]<br>
 Weiwei Guo, Xiaowei Liu, Sida Wang, <b>Huiji Gao</b>, Ananth Sankar, Zimeng Yang, Qi Guo, Liang Zhang, Bo Long, Bee-Chung Chen and Deepak Agarwal. The 29nd ACM International Conference on Information and Knowledge Management (CIKM), 2020.
 
 <b>[Incorporating User Feedback into Sequence to Sequence Model Training](http://nini2yoyo.github.io/huiji-gao/files/CIKM2020-seq2seq.pdf)</b><br>

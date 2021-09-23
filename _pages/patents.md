@@ -14,7 +14,7 @@ author_profile: true
 * US Patent App. 16/801725. Generating Personalized Query Suggestions, with Jianling Zhong, Weiwei Guo, Lin Guo, and Bo Long. Publication date: 2020/2/26.
 * US Patent App. 16/669283. Distributed Learning OF Composite Machine Learning Models, with Yuwei Qiu, Chengming Jiang, Bee-Chung Chen, and Bo Long. Publication date: 2019/10/30.
 * US Patent App. 16/588767. Predicting Search Intent, with Xiaowei Liu, Yu Gan, and Bo Long. Publication date: 2019/9/30.
-* US Patent App. 16/584844. Session-aware Related Search Generation, with Zhong Yi Wan, Weiwei Guo, Michaeel M. Kazi, and Bo Long. Publication date: 2019/9/26.
+* [Issued] US Patent App. 16/584844. Session-aware Related Search Generation, with Zhong Yi Wan, Weiwei Guo, Michaeel M. Kazi, and Bo Long. Publication date: 2019/9/26.
 * US Patent App. 16/457222. Vertical Processing OF Natural Language Searches, with Jun Shi, Ying Xiong, Michaeel Kazi, Yu Gan, Yu Liu, Xiaowei Liu, Gonzalo Aniano, Bo Long, Abhimanyu Lad, and Liang Zhang. Publication date: 2019/6/28.
 * US Patent App. 16/367849. Neural Related Search Query Generation, with Weiwei Guo, Lin Guo, Jianling Zhong, and Bo Long. Publication date: 2019/3/28.
 * US Patent App. 16/232499. [User Interface for Search Results](https://patentimages.storage.googleapis.com/e8/45/cb/e88f339cc2b47c/US20200210502A1.pdf), with Yu Gan, Xiaowei Liu, and Bo Long. Publication date: 2020/7/2.

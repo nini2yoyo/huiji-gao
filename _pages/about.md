@@ -11,7 +11,7 @@ I'm a Senior Engineering Manager at Airbnb leading the Core Ranking team for Air
 
 Recent News
 ======
-* [**New**] Our paper on [Generalized Deep Mixed Models]([https://lnkd.in/gGt8ye6](https://github.com/nini2yoyo/huiji-gao/raw/master/files/GDMix_KDD_2022.pdf)) ([Github](https://github.com/linkedin/gdmix)) is accepted by KDD 2022 Applied Data Science track.
+* [**New**] Our paper on [Generalized Deep Mixed Models](https://github.com/nini2yoyo/huiji-gao/raw/master/files/GDMix_KDD_2022.pdf) ([Github](https://github.com/linkedin/gdmix)) is accepted by KDD 2022 Applied Data Science track.
 * [**New**] It was my great pleasure to get interviewed by TWIML AI Podcast: [Building a Unified NLP Framework at LinkedIn with Huiji Gao](https://twimlai.com/building-a-unified-nlp-framework-at-linkedin-with-huiji-gao/), May 2021.
 * [**New**] Our paper on [AutoDim: Field-aware Embedding Dimension Search in Recommender Systems](https://dl.acm.org/doi/10.1145/3442381.3450124) is accepted by WWW 2021.
 * [**New**] I'll give two tech talks with my colleagues on "[DeText: A Framework for Deep Natural Language Processing at Linkedin](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31850/)" and "[GDMix: A Deep Ranking Personalization Framework](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s32081/)" at [Nvidia GPU Technology Conference 2021](https://www.nvidia.com/en-us/gtc/topics/) on Apr 2021.

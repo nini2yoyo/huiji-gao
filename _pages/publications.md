@@ -53,7 +53,7 @@ Geoffrey Barbier, Reza Zafarani, <b>Huiji Gao</b>, Gabriel Fung, Huan Liu. Compu
 
 ## Conferences
 <b>[Harnessing the Power of Interleaving and Counterfactual Evaluation for Airbnb Search Ranking](https://dl.acm.org/doi/10.1145/3711896.3737232)</b><br>
-Qing Zhang, Alex Deng, Michelle Du, <b>Huiji Gao</b>, Liwei He, Sanjeev Katariya. The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2025.
+Qing Zhang, Alex Deng, Michelle Du, <b>Huiji Gao</b>, Liwei He, Sanjeev Katariya. The 31st ACM Conference on Knowledge Discovery and Data Mining (KDD), 2025.
 
 <b>[Embedding-Based Retrieval for Airbnb Search](https://medium.com/airbnb-engineering/embedding-based-retrieval-for-airbnb-search-aabebfc85839)</b><br>
 Mustafa (Moose) Abdool, Soumyadip Banerjee, Karen Ouyang, Do-Kyum Kim, Moutupsi Paul, Xiaowei Liu, Bin Xu, Tracy Yu, Hui Gao, Yangbo Zhu, <b>Huiji Gao</b>, Liwei He, Sanjeev Katariya. Airbnb Tech Blog, 2025.
@@ -74,22 +74,22 @@ Malay Haldar, Daochen Zha, <b>Huiji Gao</b>, Liwei He, and Sanjeev Katariya. The
 Dillon Davis, <b>Huiji Gao</b>, Thomas Legrand, Malay Haldar, Alex Deng, Han Zhao, Liwei He and Sanjeev Katariya. The 33rd ACM International Conference on Information and Knowledge Management (CIKM), 2024.
 
 <b>[Multi-objective Learning to Rank by Model Distillation](https://dl.acm.org/doi/10.1145/3637528.3671597)</b><br>
-Jie Tang, Liwei He, <b>Huiji Gao</b>, and Sanjeev Katariya. The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024.
+Jie Tang, Liwei He, <b>Huiji Gao</b>, and Sanjeev Katariya. The 30th ACM Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 <b>[Learning To Rank For Maps At Airbnb](https://dl.acm.org/doi/10.1145/3637528.3671648)</b><br>
-Malay Haldar, Hongwei Zhang, Kedar Bellare, Sherry Chen, SoumyadipBanerjee, Xiaotang Wang, Mustafa Abdool, <b>Huiji Gao</b>, Pavan Tapadia, LiweiHe, and Sanjeev Katariya. The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024.
+Malay Haldar, Hongwei Zhang, Kedar Bellare, Sherry Chen, SoumyadipBanerjee, Xiaotang Wang, Mustafa Abdool, <b>Huiji Gao</b>, Pavan Tapadia, LiweiHe, and Sanjeev Katariya. The 30th ACM Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 <b>[Learning To Rank Diversely At Airbnb](https://dl.acm.org/doi/10.1145/3583780.3614692)</b><br>
 Malay Haldar, Mustafa Abdool, Liwei He, Dillon Davis, <b>Huiji Gao</b>, and Sanjeev Katariya. The 32nd ACM International Conference on Information and Knowledge Management (CIKM), 2023.
 
 <b>[Optimizing Airbnb Search Journey with Multi-task Learning](https://dl.acm.org/doi/10.1145/3580305.3599881)</b><br>
-Chun How Tan, Austin Chan, Malay Haldar, Jie Tang, Xin Liu, MustafaAbdool, <b>Huiji Gao</b>, Liwei He, and Sanjeev Katariya. The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2023.
+Chun How Tan, Austin Chan, Malay Haldar, Jie Tang, Xin Liu, MustafaAbdool, <b>Huiji Gao</b>, Liwei He, and Sanjeev Katariya. The 29th ACM Conference on Knowledge Discovery and Data Mining (KDD), 2023.
 
 <b>[Generalized Deep Mixed Models](https://dl.acm.org/doi/abs/10.1145/3534678.3539103)</b><br>
-Jun Shi, Chengming Jiang, Aman Gupta, Mingzhou Zhou, Yunbo Ouyang,Qiang Charles Xiao, Qingquan Song, Yi (Alice) Wu, Haichao Wei, and <b>Huiji Gao</b>. The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2022.
+Jun Shi, Chengming Jiang, Aman Gupta, Mingzhou Zhou, Yunbo Ouyang,Qiang Charles Xiao, Qingquan Song, Yi (Alice) Wu, Haichao Wei, and <b>Huiji Gao</b>. The 28th ACM Conference on Knowledge Discovery and Data Mining (KDD), 2022.
 
 <b>[AutoDim: Field-aware Embedding Dimension Search in Recommender Systems](http://www.cse.msu.edu/~zhaoxi35/paper/www2021autodim.pdf)</b><br>
-Xiangyu Zhao, Haochen Liu, Hui Liu, Jiliang Tang, Weiwei Guo, Jun Shi, Sida Wang, <b>Huiji Gao</b>, and Bo Long. The 30th Web Conference, 2021.
+Xiangyu Zhao, Haochen Liu, Hui Liu, Jiliang Tang, Weiwei Guo, Jun Shi, Sida Wang, <b>Huiji Gao</b>, and Bo Long. The 30th Web Conference (WWW), 2021.
 
 <b>[DeText: A Deep Text Ranking Framework with BERT](https://arxiv.org/abs/2008.02460)</b> [<b>Best Paper Award</b>]<br>
 Weiwei Guo, Xiaowei Liu, Sida Wang, <b>Huiji Gao</b>, Ananth Sankar, Zimeng Yang, Qi Guo, Liang Zhang, Bo Long, Bee-Chung Chen and Deepak Agarwal. The 29nd ACM International Conference on Information and Knowledge Management (CIKM), 2020.

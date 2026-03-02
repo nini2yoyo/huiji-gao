@@ -11,9 +11,14 @@ I'm a Senior Engineering Manager at Airbnb leading the Core Ranking team for Air
 
 Recent News
 ======
-* [**New**] Our paper on [Transforming Location Retrieval at Airbnb: A Journey from  Heuristics to Reinforcement Learning](https://arxiv.org/abs/2408.13399) is accepted by CIKM 2024 Applied Research track.
-* [**New**] Our paper on [Multi-objective Learning to Rank by Model Distillation](https://arxiv.org/abs/2407.07181) is accepted by KDD 2024 Applied Research track.
-* [**New**] Our paper on [Learning To Rank For Maps At Airbnb](https://arxiv.org/abs/2407.00091) is accepted by KDD 2024 Applied Research track.
+* [**New**] It was my great hornor to receive the ACM Outstanding Service Award (for KDD 2025 Sponsorship Chair Service), Aug 2025
+* [**New**] Our paper on [Harnessing the Power of Interleaving and Counterfactual Evaluation for Airbnb Search Ranking](https://dl.acm.org/doi/10.1145/3711896.3737232) is accepted by KDD 2025 Applied Research track.
+* [**New**] Our paper on [Learning to Comparison-Shop](https://dl.acm.org/doi/10.1145/3746252.3761567) is accepted by CIKM 2025 Applied Research track.
+* [**New**] Our paper on [Maps Ranking Optimization in Airbnb](https://dl.acm.org/doi/10.1145/3746252.3761563) is accepted by CIKM 2025 Applied Research track.
+* [**New**] Our paper on [Beyond Pairwise Learning-To-Rank At Airbnb](https://dl.acm.org/doi/10.1145/3746252.3761521) is accepted by CIKM 2025 Applied Research track.
+* Our paper on [Transforming Location Retrieval at Airbnb: A Journey from  Heuristics to Reinforcement Learning](https://arxiv.org/abs/2408.13399) is accepted by CIKM 2024 Applied Research track.
+* Our paper on [Multi-objective Learning to Rank by Model Distillation](https://arxiv.org/abs/2407.07181) is accepted by KDD 2024 Applied Research track.
+* Our paper on [Learning To Rank For Maps At Airbnb](https://arxiv.org/abs/2407.00091) is accepted by KDD 2024 Applied Research track.
 * Our paper on [Learning To Rank Diversely At Airbnb](https://arxiv.org/abs/2210.07774) is accepted by CIKM 2023 Applied Research track.
 * I'll give a tutorial with my colleagues on "[Data-centric AI: Techniques and Future Perspectives](https://dcaitutorial.github.io/)" at KDD 2023 on Aug 8.
 * Our paper on [Optimizing Airbnb Search Journey with Multi-task Learning](https://dl.acm.org/doi/abs/10.1145/3580305.3599881) is accepted by KDD 2023 Applied Data Science track.

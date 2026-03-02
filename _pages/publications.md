@@ -19,6 +19,9 @@ Nitin Agarwal, Shamanth Kumar, <b>Huiji Gao</b>, Reza Zafarani and Huan Liu. [Be
 and Decision](https://www.amazon.com/Behavior-Computing-Modeling-Analysis-Decision/dp/1447129687/ref=sr_1_1?ie=UTF8&qid=1345584429&sr=8-1&keywords=Analyzing+Behavior+of+Influentials+Across+Social+Media). Springer. pp. 3-19, 2012.
 
 ## Tutorials
+<b>[Data-centric AI: Techniques and Future Perspectives](https://dcaitutorial.github.io/)</b><br>
+Daochen Zha, Fan Yang, Henry Lai, Sirui Ding, Na Zou, <b>Huiji Gao</b>, and Xia Hu. The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2023).
+
 <b>[Deep Learning for Search and Recommender Systems in Practice](https://sites.google.com/view/kdd20tutorial-deepsnr)</b><br>
 Zhoutong Fu, <b>Huiji Gao</b>, Weiwei Guo, Sandeep Jha, Jun Jia, Xiaowei Liu, Jun Shi, Sida Wang, Mingzhou Zhou, and Bo Long. The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2020).
 

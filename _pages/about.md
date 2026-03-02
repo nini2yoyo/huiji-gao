@@ -11,7 +11,7 @@ I'm a Senior Engineering Manager at Airbnb leading the Core Ranking team for Air
 
 Recent News
 ======
-* [**New**] It was my great hornor to receive the ACM Outstanding Service Award (for KDD 2025 Sponsorship Chair Service), Aug 2025
+* [**New**] It was my great hornor to receive the ACM Outstanding Service Award (for KDD 2025 Sponsorship Chair Service)
 * [**New**] Our paper on [Harnessing the Power of Interleaving and Counterfactual Evaluation for Airbnb Search Ranking](https://dl.acm.org/doi/10.1145/3711896.3737232) is accepted by KDD 2025 Applied Research track.
 * [**New**] Our paper on [Learning to Comparison-Shop](https://dl.acm.org/doi/10.1145/3746252.3761567) is accepted by CIKM 2025 Applied Research track.
 * [**New**] Our paper on [Maps Ranking Optimization in Airbnb](https://dl.acm.org/doi/10.1145/3746252.3761563) is accepted by CIKM 2025 Applied Research track.

@@ -5,10 +5,12 @@ excerpt: "Patents"
 author_profile: true
 ---
 # <i class=""></i> Patents #
-* US Patent App. 17/513317. Factorization Machine with L-2 Norm Reduction for Machine Learned Models, with Qiang Xiao, Haichao Wei, Jun Shi, Huiji Gao. File Date: 2021/10/28.
-* US Patent 960045-US-NP. Learning to Learn Neural Network Denoising, with Xiangyu Zhao, Sida Wang, Huiji Gao, Bo Long, Bee-Chung Chen, Weiwei Guo, Jun Shi. File Date: 2021/10/20.
-* US Patent App. 17/218710. Assisted Electronic Message Composition, with Qiang Xiao, Haichao Wei, Praveen Kumar Bodigutla, Huiji Gao, Arya G. Choudhury. File Date: 2021/3/31.
-* US Patent App. 17/194118. Neural Tagger with Deep Multilevel Model, with Yuwei Qiu, Gonzalo Aniano Porcile, Yu Gan, Qin Iris Wang, Haichao Wei, Huiji Gao. File Date: 2021/3/5.
+* US Patent App. 113365-0149. Most Bookable S2 Cell Based Inventory Retrieval for Location Based Search, with Dillon Davis, Liwei He, Sanjeev Katariya, Soumyadip
+Banerjee, Thomas Legrand, Shaowei Su, Moutupsi Paul. File Date: 2025/02/04.
+* US Patent App. 17/513317. Factorization Machine with L-2 Norm Reduction for Machine Learned Models, with Qiang Xiao, Haichao Wei, Jun Shi. File Date: 2021/10/28.
+* US Patent 960045-US-NP. Learning to Learn Neural Network Denoising, with Xiangyu Zhao, Sida Wang, Bo Long, Bee-Chung Chen, Weiwei Guo, Jun Shi. File Date: 2021/10/20.
+* US Patent App. 17/218710. Assisted Electronic Message Composition, with Qiang Xiao, Haichao Wei, Praveen Kumar Bodigutla, Arya G. Choudhury. File Date: 2021/3/31.
+* US Patent App. 17/194118. Neural Tagger with Deep Multilevel Model, with Yuwei Qiu, Gonzalo Aniano Porcile, Yu Gan, Qin Iris Wang, Haichao Wei. File Date: 2021/3/5.
 * US Patent App. 17/112824. Tree-based Transfer Learning of Tunable Parameters, with Qingquan Song, Chengming Jiang, Yunbo Ouyang, Jun Jia, Bo Long, Bee-Chung Chen, and Xia Hu. Publication date: 2020/12/07.
 * US Patent App. 17/107560. Training A Machine-learned Model Based on Feedback, with Michaeel Kazi, Weiwei Guo, and Bo Long. Publication date: 2020/11/30.
 * US Patent App. 17/107524. Machine Learning Techniques to Predict Document Type for Incomplete Queries, with Xiaowei Liu, Weiwei Guo, and Bo Long. Publication date: 2020/11/30.
